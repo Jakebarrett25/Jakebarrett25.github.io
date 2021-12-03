@@ -1,0 +1,29 @@
+body {
+    font-family: 'Source Code Pro', serif;
+}
+
+h2 {
+    
+    color: #24a3ddfb;
+    text-align: center;
+    font-size: 200%;
+}
+
+p {
+    color:#005177fb;
+    text-align: left;
+    font-size: 100%;
+}
+body {background-color: rgba(255, 200, 230, 0.288);}
+
+ol {
+    color:#005177fb;
+    text-align: left;
+    font-size: 100%;
+}
+
+ul {
+    color:#005177fb;
+    text-align: left;
+    font-size: 100%;
+}
