@@ -1,6 +1,11 @@
 body {
     font-family: 'Source Code Pro', serif;
 }
+h1 {
+    color: #24a3ddfb;
+    text-align: center;
+    font-size: 200%;
+}
 
 h2 {
     
@@ -27,3 +32,20 @@ ul {
     text-align: left;
     font-size: 100%;
 }
+
+figure {
+    max-width: 350px;
+    margin: 0 auto;
+}
+
+img {
+    /* max-width: 350px; */
+    width: 100%;
+    margin: 0 auto;
+}
+
+iframe {
+    display: block;
+    margin: 0 auto;
+}
+
